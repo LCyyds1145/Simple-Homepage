@@ -13,14 +13,6 @@
       "name": "JavaScript"
     },
     {
-      "icon": "catppuccin:markdown-mdx",
-      "name": "Markdown"
-    },
-    {
-      "icon": "logos:mysql",
-      "name": "MySql"
-    },
-    {
       "icon": "logos:php",
       "name": "PHP"
     },
@@ -28,21 +20,5 @@
       "icon": "material-icon-theme:python",
       "name": "Python"
     },
-    {
-      "icon": "material-icon-theme:vue",
-      "name": "Vue"
-    },
-    {
-      "icon": "skill-icons:jquery",
-      "name": "Jquery"
-    },
-    {
-      "icon": "skill-icons:photoshop",
-      "name": "PhotoShop"
-    },
-    {
-      "icon": "devicon:xd",
-      "name": "XD"
-    }
   ]
 }
