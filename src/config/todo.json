@@ -1,15 +1,15 @@
 {
   "todoList": [
     {
-      "text": "学会Java",
-      "checked": false
-    },
-    {
-      "text": "学会粤语",
+      "text": "考上大学",
       "checked": false
     },
     {
       "text": "学会英语",
+      "checked": false
+    },
+    {
+      "text": "交到更多朋友",
       "checked": false
     },
     {
