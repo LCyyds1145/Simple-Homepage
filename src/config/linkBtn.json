@@ -1,12 +1,6 @@
 {
   "linkBtn": [
     {
-      "icon": "fa7-solid:blog",
-      "text": "博客",
-      "color": "#ffb3b3",
-      "url": "https://furrylc.de5.net"
-    },
-    {
       "icon": "mdi:github",
       "text": "Github",
       "color": "#2b2b2b",
