@@ -2,10 +2,10 @@
   "todoList": [
     {
       "text": "考上大学",
-      "checked": false
+      "checked": true
     },
     {
-      "text": "学会英语",
+      "text": "去好朋友家玩",
       "checked": false
     },
     {
@@ -13,8 +13,8 @@
       "checked": false
     },
     {
-      "text": "重构个人主页",
-      "checked": true
+      "text": "有很多的钱",
+      "checked": false
     }
   ]
 }
